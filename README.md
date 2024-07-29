@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋, I'm Olayinka Ogunneye!
 
-<!--
-**olayinkaogunneye/olayinkaogunneye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst | Problem Solver | Lifelong Learner
 
-Here are some ideas to get you started:
+I'm a certified data analyst, specialized in transforming data into actionable insights to drive strategic decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am gradually transitioning into Data Science
+
+🌟 Interests
+
+I'm keen on exploring new data science techniques, advancing my skills in machine learning, and contributing to open-source projects. I enjoy working in collaborative environments to solve complex problems.
+
+📫 Connect with Me
+
+Reach out to me on [LinkedIn](https://www.linkedin.com/in/olayinkaogunneye) and [Datacamp](https://www.datacamp.com/portfolio/olayinkaogunneye) or explore my projects here on GitHub.
